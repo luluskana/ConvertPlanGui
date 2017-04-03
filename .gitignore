@@ -1,0 +1,14 @@
+gnore case #
+.DS_Store
+.DS_Store?
+._
+target/*
+/target
+.idea/*
+*.zip
+*.iml
+derby.log
+fileData/*
+.mvn/
+mvnw
+mvnw.cmd
