@@ -12,3 +12,5 @@ fileData/*
 .mvn/
 mvnw
 mvnw.cmd
+BASE
+CELESTICA.xls
